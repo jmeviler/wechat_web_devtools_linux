@@ -10,9 +10,8 @@
   color: green;
   padding: 1px;
   padding-left: 2px;
-  padding-top: 5px;
-  min-height: 38px;
-  line-height: 1.2
+  min-height: 28px;
+  line-height: 1
 }
 
 .input-editor{
